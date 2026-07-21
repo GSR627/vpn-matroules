@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="oB7EVeP9elm1dswQpJJG5-Swn7labuiSAiXTtF63v6c" />
+
 # VPN Matroules
 
 Android VPN Client Application - A lightweight VPN client for Android
