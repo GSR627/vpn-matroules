@@ -1,0 +1,14 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolution {
+    eachArtifact {
+        goError()
+    }
+}
+rootProject.name = "VpnMatroules"
+include ':app'
